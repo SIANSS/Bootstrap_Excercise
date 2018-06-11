@@ -2,7 +2,7 @@
   background-color: #000000 !important;
   color: white !important;
 }
-li:hover{
+.navbar-default > li:hover{
   background-color: #6DE7FD !important;
 }
 .active{
@@ -18,9 +18,12 @@ li:hover{
 .xverse .navbar-nav > li > a:hover,
 .xverse .navbar-nav > li > a:focus {
   color: #fff;
-  background-color: 006600 !important;
+  background-color: violet !important;
 }
 .xverse {
   background-color: #fff;
   border-color: #080808;
+}
+.xmenu {
+    background-color: #000000 !important;
 }
